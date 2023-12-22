@@ -1,3 +1,3 @@
-module github.com/GEKA12345/mymath
+module test
 
 go 1.19
